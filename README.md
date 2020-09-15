@@ -35,7 +35,7 @@
 - user can quickly locate the URL he wants to click in his bookmarked sites.
 - here is the futher explination [favicon](https://en.wikipedia.org/wiki/Favicon) 
 
-##Apple touch icon  
+## Apple touch icon  
 - Similar to the Favicon, the Apple Touch Icon or apple-touch-icon.png is a file 
 - used for a web page icon on the Apple iPhone, iPod Touch, and iPad. 
 - to bookmark web page or adds web page to user home screen
