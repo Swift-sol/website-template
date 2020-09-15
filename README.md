@@ -1,4 +1,4 @@
-+# Breaking down a simple Website template 
+# Breaking down a simple Website template 
 - Markdown
 - favicon.ico
 - App.css
@@ -13,13 +13,13 @@
 - has `.md` or `.markdown` extension.
 - can be used for almost everything especially for creating  `website,Documents,notes,bookd,presentations, email messages & technical documentation`.
 
-###Pros
+### Pros
 - can be created on any device running any operation system.
 - have so many text editor applications that support `Markdown format` 
 - easy to switch among `markdown applications` and can read your Markdown files in every `markdown applications`.
 - are supported by lots of desktop and web-based applications.
            
-###cons
+### cons
 - dont have click buttons to format words and phrase.
 - need to know `Markdown syntax`to the text to indicate which word and phrase should be different.
 - Depending on the application you use, sometime it is not able to preview the formatted document in real time.
@@ -29,7 +29,7 @@
 
 * `.data`: The `.data` file extension is given to the data files that have been created by and used for a variety of different software applications. These files can be used on the Linux, Unix and MAC operating systems. The majority of DATA files are saved in the binary file format.
 
-##favicon.ico
+## favicon.ico
 - a small logo found in front of the visited URL
 - can be seen in Address Bar, and is used to promote a company, or a trademark 
 - user can quickly locate the URL he wants to click in his bookmarked sites.
